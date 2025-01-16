@@ -1,0 +1,4 @@
+docker==7.1.0
+quixstreams>=2.4.0
+requests-sse>=0.3.2
+confluent-kafka==2.4.0
